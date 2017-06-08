@@ -1,0 +1,21 @@
+{
+    "name": "snivs/translate-yii2",
+    "type": "yii2-extension",
+    "description": "Translation helper to keep your code readable",
+    "keywords": ["yii2", "i18n", "helper"],
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/snivs/translate-yii2/issues",
+        "wiki": "https://github.com/snivs/translate-yii2/wiki",
+        "source": "https://github.com/snivs/translate-yii2"
+    },
+    "authors": [
+        {
+            "name": "Auden Lujan",
+            "email": "audn.lujan@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+}
